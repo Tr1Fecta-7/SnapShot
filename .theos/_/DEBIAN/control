@@ -1,0 +1,10 @@
+Package: com.tr1.snapshot
+Name: SnapShot
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Tr1Fecta
+Author: Tr1Fecta
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 140
